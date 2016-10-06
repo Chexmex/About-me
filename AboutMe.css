@@ -1,0 +1,87 @@
+html{
+    background-color:#000000;
+}
+body{
+    background-color:#000000;
+}
+
+h1{
+    display:inline;
+    padding-right: 4%;
+}
+header  a{
+    float :right;
+    display:inline;
+    padding-right: 1%;
+    color:white;
+    text-align:center;
+}
+
+header img{
+    padding-top: 25%;
+}
+
+button{
+    background-color:black;
+    border: 1px solid gold;
+    text-align: center;
+    min-width: 90px;
+    min-height:30px;
+    font-size: 12px;
+}
+
+button a{
+    text-align:center;
+    float:none;
+    padding-right:3%;
+}
+.nav{
+    display:inline-block;
+    padding-right:1%;
+}
+
+
+.panel-primary>.panel-heading{
+    background-color: #B80000;
+    border-color:#B80000;
+}
+
+.panel-primary{
+    border-width:thick;
+    border-color: #B2A237;
+
+}
+
+.panel-body{
+        min-height: 329px;
+}
+
+.background{
+    margin: 5%;
+    margin-top:2%;
+    background-color: white;
+    border: 1px solid black;
+    opacity: 0.6;
+    text-align:center;
+    border-radius : 5px 5px;
+}
+  
+h1.background{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+p.backgroundtext{
+    margin-left:1%;
+    margin-right:1%;
+}
+
+.backgroundtext{
+    background-color: white;
+    opacity: 1;
+  
+}
+
+#gabelist{
+        padding-left: 0px;
+        font-size:  .9em;
+}
